@@ -9,4 +9,4 @@ Our machine learning models return actual Output Data and are available through 
  
 SKU: BOFDT-PS-CCC-AWS-001
 
-AWS SageMaker:  
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-ya2nvqz5qlpys
